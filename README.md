@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p align="center">
-  Create an Azure Virtual Machine with the Windows 10 Pro Operating System<br/>
+  Create an Azure Virtual Machine with the Windows 10 Pro Operating System with at least 2 vCPUs.<br/>
 <img src="https://github.com/user-attachments/assets/87f11197-bef2-4b6f-9e61-16291ae8f8f2" height="80%" width="80%"alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -31,7 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<p>
+<p align="center">
+  Create an Azure Virtual Machine with the Windows 10 Pro Operating System with at least 2 vCPUs.<br/>
 <img src="https://imgur.com/a/SJlpSOX" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
