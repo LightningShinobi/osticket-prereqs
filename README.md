@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p align="center">
-  Create an Azure Virtual Machine with the Windows 10 Pro Operating System with at least 2 vCPUs.<br/>
+  Next, open Remote Desktop Protocol (RDP). Copy the Public IPv4 address given from the Azure portal and connect to the VM.<br/>
 <img src="https://github.com/user-attachments/assets/40c16e85-04d6-4916-a754-358df0ae8272"/>
 </p>
 <p>
