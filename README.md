@@ -50,9 +50,9 @@ Once you have opened the VM press the windows key and type in "Windows Features"
 <br />
 
 <p align="center">
-Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
+Click the following link to aquire the installation files needed. https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
 <p>
-<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c67e2670-d3b6-45f6-aaf7-47397e2892b5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <p align="center">
