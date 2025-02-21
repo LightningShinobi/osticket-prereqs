@@ -36,14 +36,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/40c16e85-04d6-4916-a754-358df0ae8272"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
+<p align="center">
+Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
 <p>
 <img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <br />
+
+<p align="center">
+Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
+<p>
+<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
