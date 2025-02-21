@@ -66,9 +66,9 @@ Install Rewrite Module.
 <img src="https://github.com/user-attachments/assets/d10c75a5-94e6-4a0c-a991-7b8b8d03288d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-Open file manager and open Windows (C:) and create a folder named PHP.
+Install MySQL Server using the Typical Setup option.
 <p>
-<img src="https://github.com/user-attachments/assets/6dc4c527-a5cd-4e1b-b21f-bee7b62127ff" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a1e35f7c-7a9e-4740-967f-7f05d7c9199b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
 Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
@@ -85,9 +85,9 @@ Install VC_redist.x86.
 
 
 <p align="center">
-Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
+Open IIS as an administrator. Register PHP in IIS then restart the IIS Manager.
 <p>
-<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a22dbad1-64a5-42cd-884a-9f3009391951" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
 <p align="center">
