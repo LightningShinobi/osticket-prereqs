@@ -61,14 +61,14 @@ Extract OsTicket files to desktop and install PHP Manager.
 <img src="https://github.com/user-attachments/assets/040f9a90-2b6a-4e6e-803b-44cf3799810e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
+Install Rewrite Module.
 <p>
-<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d10c75a5-94e6-4a0c-a991-7b8b8d03288d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
+Open file manager and open Windows (C:) and create a folder named PHP.
 <p>
-<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/6dc4c527-a5cd-4e1b-b21f-bee7b62127ff" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
 Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
