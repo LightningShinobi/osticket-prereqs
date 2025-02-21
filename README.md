@@ -84,18 +84,18 @@ Install VC_redist.x86.
 <img src="https://github.com/user-attachments/assets/29185a41-d201-4469-a80c-9daf0a773beb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-<p align="center">
+<p>
 Open IIS as an administrator. Register PHP in IIS then restart the IIS Manager.
 <p>
 <img src="https://github.com/user-attachments/assets/a22dbad1-64a5-42cd-884a-9f3009391951" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-<p align="center">
-Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
 <p>
-<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Extract osTicket-v1.15.8 to wwwroot file and rename folder osTicket.
+<p>
+<img src="https://github.com/user-attachments/assets/40bcb4bb-2282-4629-9df4-4fd07adb55d1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p align="center">
+<p>
 Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
 <p>
 <img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
