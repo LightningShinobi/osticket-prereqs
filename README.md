@@ -71,6 +71,28 @@ Open file manager and open Windows (C:) and create a folder named PHP.
 <img src="https://github.com/user-attachments/assets/6dc4c527-a5cd-4e1b-b21f-bee7b62127ff" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
+Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
+<p>
+<img src="https://github.com/user-attachments/assets/7b8b892e-a4a0-455c-950a-3f3162f10b41" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a9caa962-8cdc-475d-abf0-cc9ab02f4632" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<p align="center">
+Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
+<p>
+<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
+<p>
+<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
+<p>
+<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
 <p>
 <img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
