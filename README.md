@@ -56,6 +56,21 @@ Click the following link to aquire the installation files needed. https://drive.
 
 
 <p align="center">
+Extract OsTicket files to desktop and install PHP Manager.
+<p>
+<img src="https://github.com/user-attachments/assets/040f9a90-2b6a-4e6e-803b-44cf3799810e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
+<p>
+<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
+<p>
+<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
 Once you have opened the VM press the windows key and type in "Windows Features". Follow that by enabling and installing Internet Information Service (IIS).
 <p>
 <img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
