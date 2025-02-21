@@ -91,9 +91,9 @@ Open IIS as an administrator. Register PHP in IIS then restart the IIS Manager.
 
 <p>
 <p>
-Extract osTicket-v1.15.8 to wwwroot file and rename folder osTicket.
+Extract osTicket-v1.15.8 and copy the upload folder to C:\inetpub\wwwroot file and rename it to osTicket.
 <p>
-<img src="https://github.com/user-attachments/assets/40bcb4bb-2282-4629-9df4-4fd07adb55d1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/7c9f59ce-1c5f-48c8-8c45-0c973cacedf2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
 Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
