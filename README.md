@@ -106,6 +106,10 @@ Next go to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename t
 <img src="https://github.com/user-attachments/assets/af4c139a-39b7-49c1-92ae-b3c4abcd3c00" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-Right-click ost-config.php and go to Properties -> Security -> Advanced. Disable inheritance and remove all existing. Grant everyone full access.
+Next go to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the file to ost-config.php.
 <p>
-<img src="https://github.com/user-attachments/assets/317034b2-ce64-42f9-b7d5-db13cad7af42" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/af4c139a-39b7-49c1-92ae-b3c4abcd3c00" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Finally, continue completing osTicket setup via browser by clicking continue and assigning a name and email.
+<p>
+<img src="https://github.com/user-attachments/assets/238c7bfe-8cb2-4feb-80ad-ad8794be94c0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
