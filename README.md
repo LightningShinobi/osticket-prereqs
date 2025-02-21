@@ -96,6 +96,6 @@ Extract osTicket-v1.15.8 and copy the upload folder to C:\inetpub\wwwroot file a
 <img src="https://github.com/user-attachments/assets/7c9f59ce-1c5f-48c8-8c45-0c973cacedf2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-Extract php-7.3.8-nts-Win32-VC15-x86 to the folder name PHP in Windows (C:).
+Return to IIS Manager. Enable the the following PHP extensions by navigating to Sites -> Default -> osTicket, then double-click PHP Manager. Select "Disable or enable an extension" and enable php_intl.dll, php_opcache.dll, and php_imap.dll.
 <p>
-<img src="https://github.com/user-attachments/assets/4b991afe-c5ac-46f6-9d0e-4fbaaf2b17bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d5265a82-ffbf-4a21-ae80-54c28da595eb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
